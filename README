@@ -1,3 +1,17 @@
+# XZVF's custom st build
+This is the st build I use in my rice
+
+## Patches
+_(Can be found in /patches)_
+- Scrollback (w mouse)
+- Solarized dark
+- Alpha
+- Anysize
+- iso14755
+
+
+# Default ST readme
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
