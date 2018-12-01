@@ -1,5 +1,5 @@
-# XZVF's custom st build
-This is the st build I use in my rice
+# XZVF's custom st build version 1
+This is the st build I use in my old rice
 
 ## Patches
 _(Can be found in /patches)_
@@ -7,7 +7,6 @@ _(Can be found in /patches)_
 - Solarized dark
 - Alpha
 - Anysize
-- iso14755
 
 
 # Default ST readme
