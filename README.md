@@ -1,6 +1,15 @@
 # XZVF's custom st build v2
+
 This is the st build I use in my current rice.
 The old one can be found in the v1 branch.
+
+It uses the "Hack Nerd Font Mono". 
+To build and install, run:
+```
+cd src
+sudo make install
+```
+
 
 ## Patches
 _(Can be found in /patches)_
